@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "sourceRoot": "src",
+    "allowJs": true,
+    "outFile": "lib/bundle.js",
+    "target": "es5",
+    "module": "system",
+    "sourceMap": true,
+    "jsx": "react"
+  },
+  "exclude": [
+    "lib",
+    "server.js",
+    "node_modules",
+    "typings/main",
+    "typings/main.d.ts"
+  ]
+}
